@@ -2,7 +2,7 @@
 
 To run this project, you will need to configure following things:
 
-1) Configure Rabbitmq on default port: 61613
+1) Configure Rabbitmq on default port: 61613. Also, enable Rabbitmq's STOMP plugin.
 
 2) Configure MongoDb on default port: 27107
 
