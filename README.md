@@ -3,6 +3,7 @@
 To run this project, you will need to configure following things:
 
 1) Configure Rabbitmq on default port: 61613
+
 2) Configure MongoDb on default port: 27107
 
 URL to post order request: http://localhost:8080/orders
